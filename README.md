@@ -1,6 +1,6 @@
 # wiki_link
 ##### project in progress
-I am trying to build an algorithm that finds the shortest route from a given startin Wiki link to a given finish Wiki link.
+I am trying to build an algorithm that finds the shortest route from a given starting Wiki link to a given finish Wiki link.
 
 So far I implemented an algorithm that uses stacks and queues to find the shortest path from one link to anorher. For example we can go from [Shrek](https://en.wikipedia.org/wiki/Shrek_(character)) to [Trump](https://en.wikipedia.org/wiki/Donald_Trump) in just to links:
 ```
