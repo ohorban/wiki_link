@@ -4,8 +4,8 @@ import httplib2
 from collections import deque
 import copy
 
-start = 'https://en.wikipedia.org/wiki/Climate_change'
-finish = 'https://en.wikipedia.org/wiki/Vegetarianism'
+start = 'https://en.wikipedia.org/wiki/Shrek_(character)' #Shrek
+finish = 'https://en.wikipedia.org/wiki/Donald_Trump'  #Trump
 
 def get_all_links(link):
     http = httplib2.Http()
