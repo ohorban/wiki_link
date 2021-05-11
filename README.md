@@ -1,5 +1,7 @@
 # wiki_link
 ##### project in progress
+### To-Do List:
+1. make a visual component and make it interacitve
 I am trying to build an algorithm that finds the shortest route from a given starting Wiki link to a given finish Wiki link.
 
 So far I implemented an algorithm that uses stacks and queues to find the shortest path from one link to another. 
