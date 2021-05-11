@@ -33,9 +33,8 @@ while len(q) > 0:
     current_stack = q.popleft()
     current_link = current_stack[-1]
     all_links = get_all_links(current_link)
-    all_links_copy = copy.copy(all_links) #in order not to skip links since we're deleting them from all_links
 
-    for link in all_links_copy:
+    for link in all_links:
         if link == finish:
             current_stack.append(link)
             print(current_stack)
@@ -44,6 +43,5 @@ while len(q) > 0:
         new_stack = copy.copy(current_stack)
         new_stack.append(link)
         q.append(new_stack)
-        #all_links.remove(link)
 print("path not found")
 
