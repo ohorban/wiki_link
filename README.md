@@ -13,4 +13,3 @@ For example we can go from [Shrek](https://en.wikipedia.org/wiki/Shrek_(characte
 ['https://en.wikipedia.org/wiki/Shrek_(character)', 'https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame', 'https://en.wikipedia.org/wiki/Donald_Trump']
 you can reach your final destionation in 2 link(s)
 ```
-currently testing online vscode on an ipad
