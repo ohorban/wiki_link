@@ -13,3 +13,7 @@ nt = Network('500px', '500px')
 # populates the nodes and edges data structures
 nt.from_nx(nx_graph)
 nt.show('nx.html')
+
+#https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
+
+#https://pyvis.readthedocs.io/en/latest/tutorial.html
