@@ -1,7 +1,7 @@
 # wiki_link
 ##### project in progress
 ### To-Do List:
-1. make a visual component and make it interacitve
+1. make a visual component and make it interacitve (look into https://www.elgrapho.com/)
 1. optimize to improve the speed
 1. try other path finding algorithms
 I am trying to build an algorithm that finds the shortest route from a given starting Wiki link to a given finish Wiki link.
