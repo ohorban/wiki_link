@@ -35,7 +35,7 @@ def get_title(link):
 
 def show():
     graph.show_buttons(filter_=['physics'])
-    graph.show('try.html')
+    graph.show('pyvis.html')
 
 
 stack = []
